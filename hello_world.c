@@ -7,4 +7,6 @@ int main(void)
   printf("World.\n");
   
   // Test commit with new username.
+  printf("Goodbye world.\n");
+  
 }
